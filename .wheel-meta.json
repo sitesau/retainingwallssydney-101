@@ -1,0 +1,22 @@
+{
+  "wheel_id": 432,
+  "structure": "umbrella",
+  "slug": "retainingwallssydney-101",
+  "project": "retaining-walls-sydney-warranty-7a60bb7123500afa3c165ed22f79229",
+  "parent_t1_ref": "retainingwallssydney-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallssydney.net.au",
+  "primary_kw": "retaining walls sydney warranty",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-sydney-warranty-7a60bb7123500afa3c165ed22f79229/",
+  "tier": "T2",
+  "writeback_nonce": "b93bf03401a9d854",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallssydney-150/",
+      "anchor": "more on retaining walls sydney",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
